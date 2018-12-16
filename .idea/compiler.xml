@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jspDemo" />
+        <module name="servletDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="jspDemo" target="1.7" />
+      <module name="jspDemo" target="1.8" />
+      <module name="servletDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
