@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+    <welcome-file-list>
+        <welcome-file>jsp/index.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!-- 注册servlet -->
+    <servlet>
+        <servlet-name>barService</servlet-name>
+        <servlet-class>com.servlet.BarService</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>barService</servlet-name>
+        <url-pattern>/bar.display</url-pattern>
+    </servlet-mapping>
+
+    <!-- 注册servlet -->
+    <servlet>
+        <servlet-name>statisticsService</servlet-name>
+        <servlet-class>com.servlet.StatisticsService</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>statisticsService</servlet-name>
+        <url-pattern>/statistics.display</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet-mapping>
+        <servlet-name>statisticsService</servlet-name>
+        <url-pattern>/statistics.getPhoneNumber</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>intimacyService</servlet-name>
+        <servlet-class>com.servlet.IntimacyService</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>intimacyService</servlet-name>
+        <url-pattern>/intimacy.display</url-pattern>
+    </servlet-mapping>
+</web-app>
