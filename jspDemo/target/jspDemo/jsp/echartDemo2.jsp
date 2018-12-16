@@ -63,7 +63,7 @@
         $.ajax({
             type: 'post',	//传输类型
             async: false,	//同步执行
-            url: 'statistics.display',	//web.xml中注册的Servlet的url-pattern
+            url: '/statistics.display',	//web.xml中注册的Servlet的url-pattern
             data: {},
             dataType: 'json', //返回数据形式为json
             success: function (result) {
@@ -109,7 +109,7 @@
         $.ajax({
             type: 'post',	//传输类型
             async: false,	//同步执行
-            url: 'intimacy.display',	//web.xml中注册的Servlet的url-pattern
+            url: '/intimacy.display',	//web.xml中注册的Servlet的url-pattern
             data: {},
             dataType: 'json', //返回数据形式为json
             success: function (result) {
