@@ -43,7 +43,6 @@ public class Statistics implements DBWritable , Writable {
      * @param resultSet
      * @throws SQLException
      */
-    @Override
     public void readFields(ResultSet resultSet) throws SQLException {
         this.id = resultSet.getInt(1);
         this.name = resultSet.getString(2);
@@ -54,20 +53,17 @@ public class Statistics implements DBWritable , Writable {
      * @param statement
      * @throws SQLException
      */
-    @Override
     public void write(PreparedStatement statement) throws SQLException {
         statement.setInt(1, this.getId());
         statement.setString(2, this.getName());
     }
 
     //Writable
-    @Override
     public void write(DataOutput out) throws IOException {
         out.write(this.id);
         Text.writeString(out, this.name);
     }
-
-    @Override
+    
     public void readFields(DataInput in) throws IOException {
         this.id = in.readInt();
         this.name = Text.readString(in);

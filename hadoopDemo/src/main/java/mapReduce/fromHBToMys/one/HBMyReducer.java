@@ -1,4 +1,4 @@
-package mapReduce.fromHBToMys;
+package mapReduce.fromHBToMys.one;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.NullWritable;

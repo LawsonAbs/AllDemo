@@ -1,4 +1,4 @@
-package mapReduce.fromHBToMys;
+package mapReduce.fromHBToMys.one;
 
 
 import org.apache.hadoop.io.Text;
@@ -34,7 +34,6 @@ public class Statistics implements Writable,DBWritable {
         this.callDuration = callDuration;
     }
 
-    @Override
     public void write(DataOutput out) throws IOException {
         out.writeInt(this.id);
         Text.writeString(out,this.teleNumber);
@@ -42,7 +41,6 @@ public class Statistics implements Writable,DBWritable {
         out.writeInt(this.callDuration);
     }
 
-    @Override
     public void readFields(DataInput in) throws IOException {
         this.id = in.readInt();
         this.teleNumber = Text.readString(in);
@@ -52,7 +50,6 @@ public class Statistics implements Writable,DBWritable {
 
 
     //-----------------------------------DBWritable------------------------------------------
-    @Override
     public void write(PreparedStatement statement) throws SQLException {
         statement.setInt(1, this.id);
         statement.setString(2,this.teleNumber);
@@ -60,7 +57,6 @@ public class Statistics implements Writable,DBWritable {
         statement.setInt(4,this.callDuration);
     }
 
-    @Override
     public void readFields(ResultSet resultSet) throws SQLException {
         this.id = resultSet.getInt(1);
         this.teleNumber = resultSet.getString(2);

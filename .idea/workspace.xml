@@ -7,251 +7,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d58f6b1-9b4b-42f6-b74c-17e3c7bae6e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_gwt_gwt_user_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stumbleupon_async_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_univocity_univocity_parsers_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_9_9_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_43_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_sources_1_0_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mx4j_mx4j_3_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_iharder_base64_2_3_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_opentsdb_opentsdb_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_opentsdb_opentsdb_gwt_theme_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_tests_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_jexl_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_tests_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop2_compat_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop_compat_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_metrics_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_metrics_api_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_procedure_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_server_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_0_8_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_column_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_common_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_encoding_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_format_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_hadoop_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_jackson_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_2_11_1_6_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_51.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hbase_asynchbase_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_htrace_htrace_core_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jamon_jamon_runtime_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jgrapht_jgrapht_core_0_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20090211.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_5_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/hadoopDemo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromFileToFile/JobSubmit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromFileToFile/WordCountMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromFileToFile/WordCountReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/Statistics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseWCJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/Statistics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/other/MyDBOutputFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/other/WriteDB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/one/IPCountMR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/one/TblsWritable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/one/TextLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/ReceiveTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/two/SaveResult.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromFileToFile/JobSubmit.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromFileToFile/JobSubmit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromFileToFile/WordCountMapper.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromFileToFile/WordCountMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromFileToFile/WordCountReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromFileToFile/WordCountReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/HBMyJob.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/HBMyJob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/HBMyMapper.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/HBMyMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/HBMyReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/HBMyReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/Statistics.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBToMys/Statistics.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBaseToFile/HBaseMapper.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBaseToFile/HBaseMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBaseToFile/HBaseReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBaseToFile/HBaseReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBaseToFile/HBaseWCJob.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromHBaseToFile/HBaseWCJob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/MyJob.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/MyJob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/MyMapper.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/MyMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/MyReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/MyReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/Statistics.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/myTry/Statistics.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/MyDBOutputFormat$MyDBOutputFormatMapper.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/MyDBOutputFormat$MyDBOutputFormatMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/MyDBOutputFormat$MyDBOutputFormatReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/MyDBOutputFormat$MyDBOutputFormatReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/MyDBOutputFormat.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/MyDBOutputFormat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/User.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/fromTxtToDB/other/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/IPCountMR$IPCountMap.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/IPCountMR$IPCountMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/IPCountMR$IPCountReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/IPCountMR$IPCountReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/IPCountMR.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/IPCountMR.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/TblsWritable.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/TblsWritable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/TextLine.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/one/TextLine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/ReceiveTable.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/ReceiveTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/WordCountJob.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/WordCountJob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/WordCountMapper.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/WordCountMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/WordCountReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/three/WordCountReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult$TblsWritable.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult$TblsWritable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult$TestMapper.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult$TestMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult$TestReducer.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult$TestReducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult.class" afterPath="$PROJECT_DIR$/hadoopDemo/target/classes/mapReduce/two/SaveResult.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllDemo.iml" afterPath="$PROJECT_DIR$/AllDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyJob.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyJob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/Statistics.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/Statistics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/two/SaveResult.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/two/SaveResult.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyJob.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyJob.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyMapper.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyReducer.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyReducer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/Statistics.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/Statistics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/ReceiveTable.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/ReceiveTable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountJob.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/WordCountJob.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountMapper.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/WordCountMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountReducer.java" afterPath="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/WordCountReducer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/jspDemo/target/" />
@@ -277,32 +75,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HBaseWCJob.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseWCJob.java">
+      <file leaf-file-name="SaveResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/two/SaveResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HBaseReducer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseReducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntWritable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-common/2.6.4/hadoop-common-2.6.4-sources.jar!/org/apache/hadoop/io/IntWritable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="352">
+              <caret line="71" column="7" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+              <folding>
+                <element signature="class#TblsWritable#0;class#SaveResult#0" expanded="false" />
+                <element signature="class#TestMapper#0;class#SaveResult#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -317,21 +98,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TableMapReduceUtil.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/.m2/repository/org/apache/hbase/hbase-server/1.4.0/hbase-server-1.4.0-sources.jar!/org/apache/hadoop/hbase/mapreduce/TableMapReduceUtil.java">
+      <file leaf-file-name="Statistics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/Statistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="78" column="48" lean-forward="false" selection-start-line="72" selection-start-column="2" selection-end-line="78" selection-end-column="48" />
+            <state relative-caret-position="286">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordCountMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromFileToFile/WordCountMapper.java">
+      <file leaf-file-name="HBMyReducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyReducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HBMyJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HBMyMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReceiveTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/ReceiveTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Result.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/.m2/repository/org/apache/hbase/hbase-client/1.4.0/hbase-client-1.4.0-sources.jar!/org/apache/hadoop/hbase/client/Result.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="81" column="13" lean-forward="false" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -405,6 +226,15 @@
         <option value="$PROJECT_DIR$/hadoopDemp/src/main/java/mapReduce/fromHBaseToFile/HBaseMapper.java" />
         <option value="$PROJECT_DIR$/hadoopDemp/src/main/java/mapReduce/fromHBaseToFile/HBaseReducer.java" />
         <option value="$PROJECT_DIR$/hadoopDemp/src/main/java/mapReduce/fromHBaseToFile/HBaseWCJob.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyJob.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountReducer.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountJob.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/ReceiveTable.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/ReceiveTable.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/Statistics.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/two/SaveResult.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/Statistics.java" />
+        <option value="$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/Statistics.java" />
       </list>
     </option>
   </component>
@@ -515,6 +345,16 @@
               <item name="mapReduce" type="462c0819:PsiDirectoryNode" />
               <item name="fromHBToMys" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AllDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AllDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoopDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapReduce" type="462c0819:PsiDirectoryNode" />
+              <item name="fromTxtToDB" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -558,7 +398,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HBaseWCJob">
+  <component name="RunManager" selected="Application.WordCountJob">
     <configuration name="HBaseWCJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -691,6 +531,25 @@
           <artifact name="jspDemo:war exploded" />
         </option>
       </method>
+    </configuration>
+    <configuration name="WordCountJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mapReduce.fromTxtToDB.three.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mapReduce.fromTxtToDB.three.WordCountJob" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hadoopDemo" />
+      <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -915,18 +774,20 @@
         </option>
       </method>
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.JspDemo" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.firstServlet" />
       <item index="2" class="java.lang.String" itemvalue="Application.IntimacyDao" />
       <item index="3" class="java.lang.String" itemvalue="Application.JobSubmit" />
       <item index="4" class="java.lang.String" itemvalue="Application.HBaseWCJob" />
+      <item index="5" class="java.lang.String" itemvalue="Application.WordCountJob" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.HBaseWCJob" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JobSubmit" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IntimacyDao" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.WordCountJob" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HBaseWCJob" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JobSubmit" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IntimacyDao" />
       </list>
     </recent_temporary>
   </component>
@@ -952,15 +813,16 @@
       <workItem from="1544957615078" duration="10876000" />
       <workItem from="1545051750051" duration="861000" />
       <workItem from="1545437714071" duration="2755000" />
-      <workItem from="1545441656063" duration="14508000" />
+      <workItem from="1545441656063" duration="20228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61612000" />
+    <option name="totallyTimeSpent" value="67332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="-8" width="1870" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -982,9 +844,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3076121" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09697602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22983426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1056,91 +918,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jspDemo/src/main/webapp/jsp/echartDemo2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="117" column="46" lean-forward="false" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jspDemo/src/main/webapp/jsp/form_start.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servletDemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/PrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/.m2/repository/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0.jar!/javax/servlet/RequestDispatcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/.m2/repository/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-sources.jar!/javax/servlet/RequestDispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="64" column="9" lean-forward="false" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servletDemo/src/main/java/servlet/HelloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servletDemo/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servletDemo/src/main/webapp/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servletDemo/src/main/java/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/.m2/repository/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-sources.jar!/javax/servlet/ServletRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7326">
-          <caret line="354" column="56" lean-forward="false" selection-start-line="353" selection-start-column="55" selection-end-line="354" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servletDemo/src/main/java/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/servletDemo/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1165,54 +942,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hadoop_back/hadoop.iml" />
     <entry file="file://$PROJECT_DIR$/hadoop_back/src/main/java/mapReduce/FromFileToFile/JobSubmit.java" />
-    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/one/TblsWritable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/other/WriteDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/Statistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/Statistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/HBMyReducer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1228,14 +966,6 @@
           <folding>
             <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/three/WordCountJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1295,14 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="1310" column="17" lean-forward="false" selection-start-line="1310" selection-start-column="17" selection-end-line="1310" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapreduce/Mapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -1315,14 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="63" column="14" lean-forward="false" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1409,14 +1123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseReducer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1428,7 +1134,178 @@
     <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseWCJob.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <caret line="84" column="30" lean-forward="false" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="918" column="14" lean-forward="false" selection-start-line="918" selection-start-column="14" selection-end-line="918" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/WordCountJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="15" column="76" lean-forward="false" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapred/lib/db/DBWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/one/TextLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapreduce/lib/db/DBOutputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="196" column="21" lean-forward="false" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapred/RecordWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="45" column="7" lean-forward="false" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapreduce/OutputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/WordCountReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.4/hadoop-mapreduce-client-core-2.6.4-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="63" column="14" lean-forward="false" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/myTry/MyReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hadoop/hadoop-common/2.6.4/hadoop-common-2.6.4-sources.jar!/org/apache/hadoop/io/Writable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="83" column="7" lean-forward="false" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/two/SaveResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="71" column="7" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+          <folding>
+            <element signature="class#TblsWritable#0;class#SaveResult#0" expanded="false" />
+            <element signature="class#TestMapper#0;class#SaveResult#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/.m2/repository/org/apache/hbase/hbase-client/1.4.0/hbase-client-1.4.0-sources.jar!/org/apache/hadoop/hbase/client/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="81" column="13" lean-forward="false" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBaseToFile/HBaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromTxtToDB/three/ReceiveTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/HBMyReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopDemo/src/main/java/mapReduce/fromHBToMys/one/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding />
         </state>
       </provider>

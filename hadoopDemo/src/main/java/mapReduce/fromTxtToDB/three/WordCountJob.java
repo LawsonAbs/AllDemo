@@ -1,4 +1,4 @@
-package mapReduce.three;
+package mapReduce.fromTxtToDB.three;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
@@ -13,10 +13,10 @@ import java.io.IOException;
 
 public class WordCountJob {
     public static String driverClass = "com.mysql.jdbc.Driver";
-    public static String dbUrl = "jdbc:mysql://192.168.211.3:3306/mydatabase";
+    public static String dbUrl = "jdbc:mysql://192.168.211.4:3306/mydatabase";
     public static String userName = "root";
     public static String passwd = "root";
-    public static String inputFilePath = "hdfs://192.168.211.3:9000/input/word.txt";
+    public static String inputFilePath = "hdfs://192.168.211.4:9000/input/data.txt";
     public static String tableName = "keyWord";
     public static String [] fields = {"word","total"};
 
@@ -36,6 +36,8 @@ public class WordCountJob {
             job.setJobName("MyWordCountDB");
 
             FileInputFormat.setInputPaths(job,new Path(inputFilePath));
+
+            //关键所在，一定要使用DBOutputFormat
             DBOutputFormat.setOutput(job,tableName,fields);
 
             job.waitForCompletion(true);

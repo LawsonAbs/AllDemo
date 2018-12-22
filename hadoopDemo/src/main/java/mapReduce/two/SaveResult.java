@@ -40,25 +40,21 @@ public class SaveResult {
             this.tbl_age = age;
         }
 
-        @Override
         public void write(PreparedStatement statement) throws SQLException {
             statement.setString(1, this.tbl_name);
             statement.setInt(2, this.tbl_age);
         }
 
-        @Override
         public void readFields(ResultSet resultSet) throws SQLException {
             this.tbl_name = resultSet.getString(1);
             this.tbl_age = resultSet.getInt(2);
         }
 
-        @Override
         public void write(DataOutput out) throws IOException {
             out.writeUTF(this.tbl_name);
             out.writeInt(this.tbl_age);
         }
 
-        @Override
         public void readFields(DataInput in) throws IOException {
             this.tbl_name = in.readUTF();
             this.tbl_age = in.readInt();
@@ -69,6 +65,7 @@ public class SaveResult {
             return new String(this.tbl_name + " " + this.tbl_age);
         }
     }
+
     /*
     1.Mapper类：TestMapper
     2.因为完全是结果，所以不需要使用Mapper进行复杂的计算
@@ -117,7 +114,7 @@ public class SaveResult {
                 conf,
                 "com.mysql.jdbc.Driver",
                 //"jdbc:mysql://192.168.211.3:3306/learning?serverTimezone=UTC",
-                "jdbc:mysql://192.168.211.3:3306/mydatabase",
+                "jdbc:mysql://192.168.211.4:3306/mydatabase",
                 "root",
                 "root");
 
@@ -125,7 +122,7 @@ public class SaveResult {
         //conf.set("mapred.job.tracker", "192.168.211.3:9000");
 
         //设置输入输出文件目录
-        String[] inputFile = new String[] {"hdfs://192.168.211.3:9000/input/test.txt"};
+        String[] inputFile = new String[] {"hdfs://192.168.211.4:9000/input/test.txt"};
         String[] outputFile = new GenericOptionsParser(conf, inputFile).getRemainingArgs();//can't understand
         if (outputFile.length != 1) {
             System.err.println("Usage:  <in> <out>");

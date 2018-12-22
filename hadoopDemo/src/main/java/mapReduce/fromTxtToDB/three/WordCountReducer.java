@@ -1,4 +1,4 @@
-package mapReduce.three;
+package mapReduce.fromTxtToDB.three;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.NullWritable;
@@ -16,6 +16,8 @@ public class WordCountReducer extends Reducer<Text,IntWritable,ReceiveTable,Null
             sum += intW.get();
         }
         ReceiveTable receiveTable = new ReceiveTable(key.toString(),sum);
+
+        //这里写的是receiveTable，而不是之前的 context.write(key,new IntWritable(count));
         context.write(receiveTable,null);
     }
 }

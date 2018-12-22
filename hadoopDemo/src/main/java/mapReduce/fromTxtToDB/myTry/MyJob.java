@@ -21,7 +21,7 @@ public class MyJob{
         DBConfiguration.configureDB(
                 conf,
                 "com.mysql.jdbc.Driver",
-                "jdbc:mysql://192.168.211.3:3306/mydatabase",
+                "jdbc:mysql://192.168.211.4:3306/mydatabase",
                 "root",
                 "root");
         try {
@@ -45,11 +45,13 @@ public class MyJob{
 
             //The correct usage is shown below
             FileInputFormat.setInputPaths(job,new Path(
-                    "hdfs://192.168.211.3:9000/input/word.txt"));
+                    "hdfs://192.168.211.4:9000/input/word.txt"));
             //FileOutputFormat.setOutputPath(job,new Path("hdfs://192.168.211.3:9000/result.txt"));
+
+            //the mysql's table name
             String tableName = "statistics";
 
-            DBOutputFormat.setOutput(job,tableName,new String[] { "id", "name" });
+            DBOutputFormat.setOutput(job,tableName,new String[] { "keyword", "num" });
             try {
                 job.waitForCompletion(true);
             } catch (InterruptedException e) {

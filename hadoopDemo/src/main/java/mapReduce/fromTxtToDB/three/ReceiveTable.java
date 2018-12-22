@@ -1,4 +1,4 @@
-package mapReduce.three;
+package mapReduce.fromTxtToDB.three;
 
 
 import org.apache.hadoop.io.Text;
@@ -20,16 +20,18 @@ public class ReceiveTable implements Writable,DBWritable{
     public ReceiveTable(){
 
     }
+
     public ReceiveTable(String keyWord,int number){
         this.keyWord = keyWord;
         this.number = number;
     }
-    /**Writable  only serializable and deseiralizable
+
+    //============================== Writable  ==========================================
+    /**only serializable and deseiralizable
      *
      * @param out
      * @throws IOException
      */
-    @Override
     public void write(DataOutput out) throws IOException {
         out.writeInt(this.number);
         /*1.将this.keyWord以UTF8的编码方式写入到out中[Write a UTF8 encoded string to out]
@@ -39,30 +41,27 @@ public class ReceiveTable implements Writable,DBWritable{
         Text.writeString(out, this.keyWord);
     }
 
-    @Override
     public void readFields(DataInput in) throws IOException {
         this.number = in.readInt();
         this.keyWord = in.readUTF();
     }
 
-
-    /**DBWritable
+   //============================== DBWritable ==========================================
+    /**
      * write data to mysql
      * @param statement
      * @throws SQLException
      */
-    @Override
     public void write(PreparedStatement statement) throws SQLException {
         statement.setString(1,this.keyWord);
         statement.setInt(2,this.number);
     }
 
     /**DBWritable
-     * get data from resultset.And set in your fields
+     * get data from result set. And set in your fields
      * @param resultSet
      * @throws SQLException
      */
-    @Override
     public void readFields(ResultSet resultSet) throws SQLException {
         this.keyWord = resultSet.getString(1);
         this.number = resultSet.getInt(2);
