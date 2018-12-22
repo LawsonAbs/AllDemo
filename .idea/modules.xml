@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AllDemo.iml" filepath="$PROJECT_DIR$/AllDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoopDemo/hadoopDemo.iml" filepath="$PROJECT_DIR$/hadoopDemo/hadoopDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/jspDemo/jspDemo.iml" filepath="$PROJECT_DIR$/jspDemo/jspDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/servletDemo/servletDemo.iml" filepath="$PROJECT_DIR$/servletDemo/servletDemo.iml" />
     </modules>

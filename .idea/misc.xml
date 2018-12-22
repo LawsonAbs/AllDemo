@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/jspDemo/pom.xml" />
         <option value="$PROJECT_DIR$/servletDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoopDemp/pom.xml" />
       </list>
     </option>
   </component>
