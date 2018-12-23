@@ -135,7 +135,7 @@ public class SaveResult {
         // 输入路径
         FileInputFormat.addInputPath(job, new Path(outputFile[0]));
 
-        // Mapper
+        // MyMapper
         job.setMapperClass(TestMapper.class);
         // Reducer
         job.setReducerClass(TestReducer.class);

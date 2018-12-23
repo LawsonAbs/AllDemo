@@ -9,7 +9,7 @@ import org.apache.hadoop.mapred.JobClient;
 import org.apache.hadoop.mapred.JobConf;
 import org.apache.hadoop.mapred.OutputCollector;
 import org.apache.hadoop.mapred.Reporter;
-import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.MyMapper;
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.filecache.DistributedCache;
 import org.apache.hadoop.mapreduce.lib.db.DBConfiguration;
@@ -30,7 +30,7 @@ import java.util.StringTokenizer;
 public class WriteDB {
 
     // Map处理过程
-    public static class Map extends Mapper<Object, Text, Text, IntWritable> {
+    public static class Map extends MyMapper<Object, Text, Text, IntWritable> {
         private final static IntWritable one = new IntWritable(1);
         private Text word = new Text();
 

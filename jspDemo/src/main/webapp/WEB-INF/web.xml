@@ -27,13 +27,13 @@
 
     <servlet-mapping>
         <servlet-name>statisticsService</servlet-name>
-        <url-pattern>/statistics.display</url-pattern>
+        <url-pattern>/monthStat.display</url-pattern>
     </servlet-mapping>
 
 
     <servlet-mapping>
         <servlet-name>statisticsService</servlet-name>
-        <url-pattern>/statistics.getPhoneNumber</url-pattern>
+        <url-pattern>/monthStat.getPhoneNumber</url-pattern>
     </servlet-mapping>
 
     <servlet>

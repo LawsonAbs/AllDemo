@@ -44,7 +44,7 @@
             -->
             <iframe width="0px" height="0px" name="actionframe" style="border: none"></iframe>
             <form style=""
-                  action="/statistics.getPhoneNumber" method="get" onsubmit="return sumbit_sure()" target="actionframe">
+                  action="/monthStat.getPhoneNumber" method="get" onsubmit="return sumbit_sure()" target="actionframe">
                 <br>
                 Phone&nbsp;Number:<input name="phoneNumber" style="font-size: 15px" type="text" value="18907263863">
                 <br><br>

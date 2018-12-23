@@ -1,0 +1,4 @@
+1.如果你实现的TableMapper，那么你只需要传递两个泛型即可。KEYOUT,VALUEOUT。 分别是用于做输出键，输出值。
+但是如果你实现的是普通的Mapper函数，那么你就需要传递四个参数，分别是KEYIN,VALUEIN,KEYOUT,VALUEOUT。
+
+2.每读取到一行，就使用这个map函数对其进行处理一次。【而不是读取所有的行，再处理】

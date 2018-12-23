@@ -63,7 +63,7 @@ public class IPCountMR {
         // 输入路径
         FileInputFormat.addInputPath(job, new Path(args[0]));
 
-        // Mapper
+        // MyMapper
         job.setMapperClass(IPCountMap.class);
         job.setMapOutputKeyClass(Text.class);
         job.setMapOutputValueClass(IntWritable.class);

@@ -9,7 +9,7 @@ create table user(
 
 
 //2. 通话记录分析表
-create table statistics (
+create table monthStat (
  teleNumber varchar(12) not null
 ,yearmonth varchar(20) not null
 ,callDuration int not null
@@ -23,7 +23,7 @@ create table intimacy (
 )
 
 //4.插入数据
-insert into statistics values
+insert into monthStat values
 (18907263863,201812,3000),
 (18907263863,201811,2900),
 (18907263863,201810,2400),
